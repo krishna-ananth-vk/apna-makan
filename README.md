@@ -26,7 +26,7 @@ ApnaMakan is an Angular-based web application designed to help manage household 
 The project structure is organized as follows:
 
 ```
-/ghar-manage
+/apna-makan
 │
 ├── /e2e                      # End-to-end tests
 │   ├── /src
